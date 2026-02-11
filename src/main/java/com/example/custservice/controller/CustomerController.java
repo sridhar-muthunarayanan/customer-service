@@ -1,7 +1,7 @@
-package com.example.demoms.controller;
+package com.example.custservice.controller;
 
-import com.example.demoms.entity.Customer;
-import com.example.demoms.service.CustomerService;
+import com.example.custservice.entity.Customer;
+import com.example.custservice.service.CustomerService;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 

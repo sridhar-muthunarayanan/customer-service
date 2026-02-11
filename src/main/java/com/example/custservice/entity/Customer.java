@@ -1,4 +1,4 @@
-package com.example.demoms.entity;
+package com.example.custservice.entity;
 
 import jakarta.persistence.*;
 
