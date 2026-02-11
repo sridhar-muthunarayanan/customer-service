@@ -1,7 +1,7 @@
-package com.example.custservice.service;
+package com.example.customerservice.service;
 
-import com.example.custservice.entity.Customer;
-import com.example.custservice.repo.CustomerRepository;
+import com.example.customerservice.entity.Customer;
+import com.example.customerservice.repo.CustomerRepository;
 import org.springframework.stereotype.Service;
 import java.util.List;
 
